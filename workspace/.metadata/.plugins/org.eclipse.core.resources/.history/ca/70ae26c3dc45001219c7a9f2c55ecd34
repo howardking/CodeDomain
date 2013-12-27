@@ -1,0 +1,25 @@
+package rjxx007.com.sina.blog;
+
+import java.io.File;
+import java.io.IOException;
+
+public class FileTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String path = new String("E:/CodeDomain/workspace/AbstractClass/src/rjxx007/com/sina/blog");
+		File file = new File(path, "test.txt");
+		try{
+			file.createNewFile();
+		}catch(IOException e){
+			System.out.println("create file failed");
+		}
+		
+		String input;
+		input = (String)System.console().readLine();
+	}
+
+}

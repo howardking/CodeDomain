@@ -1,0 +1,3 @@
+2012-04-28 12:40:10,356 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2012-04-28 12:40:10,616 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2012-04-28 12:40:10,686 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:54814

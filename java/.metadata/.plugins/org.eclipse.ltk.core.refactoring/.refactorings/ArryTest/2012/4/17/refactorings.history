@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.shuaihua.Arryest&apos; to &apos;ArryTest&apos;&#x0D;&#x0A;- Original project: &apos;ArryTest&apos;&#x0D;&#x0A;- Original element: &apos;com.shuaihua.Arryest&apos;&#x0D;&#x0A;- Renamed element: &apos;com.shuaihua.ArryTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Arryest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.shuaihua{Arryest.java[Arryest" matchStrategy="1" name="ArryTest" qualified="false" references="true" similarDeclarations="false" stamp="1335494270447" textual="false" version="1.0"/>
+</session>

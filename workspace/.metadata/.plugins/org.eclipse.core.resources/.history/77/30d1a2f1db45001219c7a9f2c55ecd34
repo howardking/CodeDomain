@@ -1,0 +1,13 @@
+package rjxx007.com.sina.blog;
+
+public class FileTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		File path = new File("E:/CodeDomain/workspace/AbstractClass/src/rjxx007/com/sina/blog");
+	}
+
+}

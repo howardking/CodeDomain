@@ -1,0 +1,291 @@
+!SESSION 2012-05-06 11:37:28.566 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -clean
+
+!ENTRY org.eclipse.equinox.registry 2 0 2012-05-06 11:37:48.343
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.epf.richtext" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.jface 2 0 2012-05-06 12:59:29.173
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2012-05-06 12:59:29.173
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@c20151,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.osgi 2 1 2012-05-06 12:59:39.787
+!MESSAGE NLS unused message: prompt.optclasspath in: com.genuitec.eclipse.easie.core.configuration
+
+!ENTRY org.eclipse.osgi 2 1 2012-05-06 12:59:39.788
+!MESSAGE NLS unused message: prompt.preclasspath in: com.genuitec.eclipse.easie.core.configuration
+
+!ENTRY org.eclipse.osgi 2 1 2012-05-06 12:59:39.790
+!MESSAGE NLS unused message: prompt.optlibrarypath in: com.genuitec.eclipse.easie.core.configuration
+
+!ENTRY com.genuitec.eclipse.core 1 0 2012-05-06 12:59:45.410
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:45.996
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:46.148
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:46.235
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:46.333
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:46.461
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:46.560
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:46.662
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:46.768
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:46.876
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:46.975
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2012-05-06 12:59:47.082
+!MESSAGE Installed snippet library: D:\Development\Genuitec\MyEclipse-9.0M1\configuration\org.eclipse.osgi\bundles\121\1\.cp\snippets\jsp\struts_tiles_snippets.xml
+!SESSION 2012-05-11 20:58:13.177 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2012-05-11 20:59:54.760
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2012-05-11 20:59:54.760
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@14fd510,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.osgi 2 1 2012-05-11 21:00:02.975
+!MESSAGE NLS unused message: prompt.optclasspath in: com.genuitec.eclipse.easie.core.configuration
+
+!ENTRY org.eclipse.osgi 2 1 2012-05-11 21:00:02.977
+!MESSAGE NLS unused message: prompt.preclasspath in: com.genuitec.eclipse.easie.core.configuration
+
+!ENTRY org.eclipse.osgi 2 1 2012-05-11 21:00:02.979
+!MESSAGE NLS unused message: prompt.optlibrarypath in: com.genuitec.eclipse.easie.core.configuration
+
+!ENTRY com.genuitec.eclipse.core 1 0 2012-05-11 21:00:09.278
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY org.maven.ide.eclipse 4 0 2012-05-11 21:04:58.090
+!MESSAGE Unable to update index for central|http://repo1.maven.org/maven2
+!STACK 0
+java.io.IOException: Transfer for nexus-maven-repository-index.gz failed; Transfer error: null
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater$WagonFetcher.retrieve(DefaultIndexUpdater.java:693)
+	at org.sonatype.nexus.index.updater.AbstractResourceFetcher.retrieve(AbstractResourceFetcher.java:22)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater$LocalCacheIndexAdaptor.setIndexFile(DefaultIndexUpdater.java:868)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:995)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:138)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1060)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager.updateIndex(NexusIndexManager.java:1013)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager$1.run(NexusIndexManager.java:624)
+	at org.maven.ide.eclipse.internal.index.IndexUpdaterJob.run(IndexUpdaterJob.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.genuitec.eclipse.core 1 0 2012-05-11 21:06:54.333
+!MESSAGE Subscription key decode failed.  Hash code was not correct so key is being ignored.
+
+!ENTRY com.genuitec.eclipse.core 1 0 2012-05-11 21:06:54.557
+!MESSAGE Subscription key decode failed.  Hash code was not correct so key is being ignored.
+
+!ENTRY com.genuitec.eclipse.core 1 0 2012-05-11 21:06:54.668
+!MESSAGE Subscription key decode failed.  Hash code was not correct so key is being ignored.
+
+!ENTRY com.genuitec.eclipse.core 1 0 2012-05-11 21:06:54.804
+!MESSAGE Subscription key decode failed.  Hash code was not correct so key is being ignored.
+
+!ENTRY com.genuitec.eclipse.core 1 0 2012-05-11 21:06:54.943
+!MESSAGE Subscription key decode failed.  Hash code was not correct so key is being ignored.
+
+!ENTRY com.genuitec.eclipse.core 1 0 2012-05-11 21:06:55.175
+!MESSAGE Subscription key decode failed.  Hash code was not correct so key is being ignored.
+
+!ENTRY com.genuitec.eclipse.core 1 0 2012-05-11 21:06:55.284
+!MESSAGE Subscription key decode failed.  Hash code was not correct so key is being ignored.
+!SESSION 2012-06-20 08:51:11.032 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2012-06-20 08:52:21.085
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2012-06-20 08:52:21.085
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@be1539,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.osgi 2 1 2012-06-20 08:52:26.015
+!MESSAGE NLS unused message: prompt.optclasspath in: com.genuitec.eclipse.easie.core.configuration
+
+!ENTRY org.eclipse.osgi 2 1 2012-06-20 08:52:26.015
+!MESSAGE NLS unused message: prompt.preclasspath in: com.genuitec.eclipse.easie.core.configuration
+
+!ENTRY org.eclipse.osgi 2 1 2012-06-20 08:52:26.015
+!MESSAGE NLS unused message: prompt.optlibrarypath in: com.genuitec.eclipse.easie.core.configuration
+
+!ENTRY org.maven.ide.eclipse 4 0 2012-06-20 08:52:30.950
+!MESSAGE Unable to update index for central|http://repo1.maven.org/maven2
+!STACK 0
+java.io.IOException: Not in GZIP format
+	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:137)
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:58)
+	at org.sonatype.nexus.index.updater.IndexDataReader.<init>(IndexDataReader.java:40)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.unpackIndexData(DefaultIndexUpdater.java:562)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.loadIndexDirectory(DefaultIndexUpdater.java:252)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.access$300(DefaultIndexUpdater.java:74)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater$LuceneIndexAdaptor.setIndexFile(DefaultIndexUpdater.java:815)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:995)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:159)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1073)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager.updateIndex(NexusIndexManager.java:1013)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager$1.run(NexusIndexManager.java:624)
+	at org.maven.ide.eclipse.internal.index.IndexUpdaterJob.run(IndexUpdaterJob.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.genuitec.eclipse.core 1 0 2012-06-20 08:52:33.555
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY org.eclipse.ui.workbench 4 2 2012-06-20 08:52:33.648
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4083)
+	at org.eclipse.swt.SWT.error(SWT.java:3998)
+	at org.eclipse.swt.SWT.error(SWT.java:3969)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:468)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:359)
+	at org.eclipse.swt.widgets.Menu.getItems(Menu.java:842)
+	at org.eclipse.jface.action.MenuManager.getMenuItems(MenuManager.java:689)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:778)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:678)
+	at org.eclipse.ui.internal.menus.WorkbenchMenuService.updateManagers(WorkbenchMenuService.java:330)
+	at org.eclipse.ui.internal.menus.WorkbenchMenuService$3.activityManagerChanged(WorkbenchMenuService.java:292)
+	at org.eclipse.ui.internal.activities.AbstractActivityManager.fireActivityManagerChanged(AbstractActivityManager.java:51)
+	at org.eclipse.ui.internal.activities.ProxyActivityManager$1.activityManagerChanged(ProxyActivityManager.java:50)
+	at org.eclipse.ui.internal.activities.AbstractActivityManager.fireActivityManagerChanged(AbstractActivityManager.java:51)
+	at org.eclipse.ui.internal.activities.MutableActivityManager.updateListeners(MutableActivityManager.java:601)
+	at org.eclipse.ui.internal.activities.MutableActivityManager.setEnabledActivityIds(MutableActivityManager.java:573)
+	at org.eclipse.ui.internal.activities.ws.WorkbenchActivitySupport.setEnabledActivityIds(WorkbenchActivitySupport.java:320)
+	at com.genuitec.myeclipse.perspective.PerspectivePlugin.earlyStartup(PerspectivePlugin.java:179)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:87)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:73)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$58.run(Workbench.java:2398)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ui 4 4 2012-06-20 08:52:33.648
+!MESSAGE Unhandled Exception
+
+!ENTRY com.genuitec.myeclipse.perspective 4 0 2012-06-20 08:52:33.664
+!MESSAGE Unable to execute early startup code for an extension
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4083)
+	at org.eclipse.swt.SWT.error(SWT.java:3998)
+	at org.eclipse.swt.SWT.error(SWT.java:3969)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:468)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:359)
+	at org.eclipse.swt.widgets.Menu.getItems(Menu.java:842)
+	at org.eclipse.jface.action.MenuManager.getMenuItems(MenuManager.java:689)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:778)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:678)
+	at org.eclipse.ui.internal.menus.WorkbenchMenuService.updateManagers(WorkbenchMenuService.java:330)
+	at org.eclipse.ui.internal.menus.WorkbenchMenuService$3.activityManagerChanged(WorkbenchMenuService.java:292)
+	at org.eclipse.ui.internal.activities.AbstractActivityManager.fireActivityManagerChanged(AbstractActivityManager.java:51)
+	at org.eclipse.ui.internal.activities.ProxyActivityManager$1.activityManagerChanged(ProxyActivityManager.java:50)
+	at org.eclipse.ui.internal.activities.AbstractActivityManager.fireActivityManagerChanged(AbstractActivityManager.java:51)
+	at org.eclipse.ui.internal.activities.MutableActivityManager.updateListeners(MutableActivityManager.java:601)
+	at org.eclipse.ui.internal.activities.MutableActivityManager.setEnabledActivityIds(MutableActivityManager.java:573)
+	at org.eclipse.ui.internal.activities.ws.WorkbenchActivitySupport.setEnabledActivityIds(WorkbenchActivitySupport.java:320)
+	at com.genuitec.myeclipse.perspective.PerspectivePlugin.earlyStartup(PerspectivePlugin.java:179)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:87)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:73)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$58.run(Workbench.java:2398)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)

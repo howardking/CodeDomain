@@ -1,0 +1,7 @@
+<html>
+<head>The first html page</head>
+<body>
+<h1>My first page</h1>
+<p>the first pragraph</p>
+</body>
+</html>

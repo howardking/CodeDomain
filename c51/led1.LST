@@ -1,0 +1,44 @@
+A51 MACRO ASSEMBLER  LED1                                                                 10/11/2012 23:57:32 PAGE     1
+
+
+MACRO ASSEMBLER A51 V7.09
+OBJECT MODULE PLACED IN led1.OBJ
+ASSEMBLER INVOKED BY: D:\Development\Keil\C51\BIN\A51.EXE led1.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000 7808              1     START:   MOV    R0, #8
+0002 74FE              2                      MOV    A,  #11111110B
+0004 F590              3     LOOP:    MOV    P1, A
+0006 110D              4                      ACALL  DELAY
+0008 23                5                      RL             A
+0009 D8F9              6                      DJNZ   R0, LOOP
+000B 80F3              7                      JMP    START
+000D 7D32              8     DELAY:   MOV    R5, #50
+000F 7E64              9     DLY1:    MOV    R6, #100
+0011 7F64             10     DLY2:    MOV    R7, #100
+0013 DFFE             11                      DJNZ   R7, $
+0015 DEFA             12                      DJNZ   R6, DLY2
+0017 DDF6             13                      DJNZ   R5,     DLY1
+0019 22               14                      RET
+                      15                      END
+A51 MACRO ASSEMBLER  LED1                                                                 10/11/2012 23:57:32 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+DELAY. . . . . . .  C ADDR   000DH   A   
+DLY1 . . . . . . .  C ADDR   000FH   A   
+DLY2 . . . . . . .  C ADDR   0011H   A   
+LOOP . . . . . . .  C ADDR   0004H   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+START. . . . . . .  C ADDR   0000H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

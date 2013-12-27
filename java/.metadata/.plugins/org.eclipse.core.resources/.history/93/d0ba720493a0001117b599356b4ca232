@@ -1,0 +1,19 @@
+package com.shuaihua.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import com.shuaihua.T;
+
+public class TTest {
+
+	@Test
+	public void testAdd() {
+		//fail("Not yet implemented");
+		int z = new T().add(5, 3);
+		assertEquals(8, z);
+		assertTrue(z>3);
+	}
+
+}

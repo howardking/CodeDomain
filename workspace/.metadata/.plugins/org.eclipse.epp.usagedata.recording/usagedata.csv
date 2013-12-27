@@ -1,0 +1,16 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1.2.200.v201103302125,"org.eclipse.jst.j2ee.ejb.annotations.xdoclet",1334638702809
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.emitter,1.1.200.v200909290826,"org.eclipse.jst.j2ee.ejb.annotations.emitter",1334638702810
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotation.model,1.1.300.v201003112036,"org.eclipse.jst.j2ee.ejb.annotation.model",1334638702810
+stopped,bundle,org.eclipse.jst.jee.ejb,1.0.301.v201007070821,"org.eclipse.jst.jee.ejb",1334638702810
+stopped,bundle,org.eclipse.jst.j2ee.ejb,1.1.505.v201202020200,"org.eclipse.jst.j2ee.ejb",1334638702810
+stopped,bundle,org.eclipse.jst.jee.web,1.0.301.v201007070907,"org.eclipse.jst.jee.web",1334638702811
+stopped,bundle,org.eclipse.jst.ws.jaxrs.ui,1.0.401.v201108230518,"org.eclipse.jst.ws.jaxrs.ui",1334638702811
+stopped,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.301.v201108240656,"org.eclipse.jst.ws.jaxrs.core",1334638702811
+stopped,bundle,org.eclipse.jst.j2ee.web,1.1.502.v201202090300,"org.eclipse.jst.j2ee.web",1334638702811
+stopped,bundle,org.eclipse.jst.jee,1.0.402.v201202021530,"org.eclipse.jst.jee",1334638702812
+stopped,bundle,org.eclipse.jst.j2ee.jca,1.1.501.v201111030500,"org.eclipse.jst.j2ee.jca",1334638702812
+stopped,bundle,org.eclipse.jst.jsf.facesconfig,1.2.2.v201105031140,"org.eclipse.jst.jsf.facesconfig",1334638702812
+stopped,bundle,org.eclipse.jst.j2ee,1.1.503.v201202090300,"org.eclipse.jst.j2ee",1334638702813
+stopped,bundle,org.eclipse.jst.j2ee.core,1.2.102.v201202090300,"org.eclipse.jst.j2ee.core",1334638702813
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1334638702813
